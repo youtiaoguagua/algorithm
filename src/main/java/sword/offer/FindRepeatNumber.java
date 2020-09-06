@@ -10,4 +10,5 @@ package sword.offer;
  * 输出：2 或 3 
  */
 public class FindRepeatNumber {
+
 }
