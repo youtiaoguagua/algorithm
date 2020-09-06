@@ -1,6 +1,7 @@
 package sword.offer;
 
 
+import java.util.Arrays;
 import java.util.HashSet;
 
 /**
@@ -14,7 +15,7 @@ import java.util.HashSet;
 public class FindRepeatNumber {
     public static void main(String[] args) {
         FindRepeatNumber findRepeatNumber = new FindRepeatNumber();
-        int repeatNumber = findRepeatNumber.findRepeatNumber(new int[]{2, 3, 1, 0, 2, 5, 3});
+        int repeatNumber = findRepeatNumber.findRepeatNumber2(new int[]{2, 3, 1, 0, 2, 5, 3});
         System.out.println(repeatNumber);
     }
 
@@ -24,6 +25,31 @@ public class FindRepeatNumber {
             boolean add = integers.add(num);
             if (!add){
                 return num;
+            }
+        }
+        return -1;
+    }
+
+
+    /**
+     * 优化版
+     * 0, 1, 2, 3, 4, 5, 6
+     * 2, 3, 1, 0, 2, 5, 3
+     */
+    public int findRepeatNumber2(int[] nums) {
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i]<0||nums[i]>nums.length-1){
+                return -1;
+            }
+
+            if (nums[i]!=i&&nums[nums[i]]==nums[i]){
+                return nums[i];
+            }
+
+            while (nums[i]!=i&&nums[nums[i]]!=nums[i]){
+                int tmp = nums[i];
+                nums[i] = nums[nums[i]];
+                nums[tmp] = tmp;
             }
         }
         return -1;
