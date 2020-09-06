@@ -1,6 +1,7 @@
 package sword.offer;
 
 /**
+ *不修改数组找出重复的数字
  * @author youtiaoguagua
  * @date 2020/9/6 下午 2:14
  */
