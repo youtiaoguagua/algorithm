@@ -14,4 +14,6 @@
 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | 队列，栈                 | [题解](sword/offer/MyQueue.java)            |
 | [斐波那契数列](https://www.acwing.com/problem/content/19/)   | 斐波那契数列             | [题解](sword/offer/Fibonacci.java)          |
 | [斐波那契数列扩展](https://www.acwing.com/blog/content/25/)  | 知识点                   | 扩展                                        |
+| [旋转数组的最小数字](https://www.acwing.com/problem/content/20/) | 二分法                   | [题解](sword/offer/FindMin.java)            |
+| [矩阵中的路径](https://www.acwing.com/problem/content/21/)   | 枚举                     | [题解](sword/offer/HasPath.java)            |
 
