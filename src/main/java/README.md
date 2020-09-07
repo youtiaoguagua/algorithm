@@ -23,20 +23,20 @@
 
 ### day2
 
-| 题目                                                         | 知识点 | 题解                                      |
-| ------------------------------------------------------------ | ------ | ----------------------------------------- |
-| [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof) | 递归   | [题解](sword/offer/day2/MovingCount.java) |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
-|                                                              |        |                                           |
+| 题目                                                         | 知识点                          | 题解                                                 |
+| ------------------------------------------------------------ | ------------------------------- | ---------------------------------------------------- |
+| [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof) | 递归                            | [题解](sword/offer/day2/MovingCount.java)            |
+| [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | 公式（分成最多的3是，乘积最大） | [题解](sword/offer/day2/MaxProductAfterCutting.java) |
+| [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 二进制，无符号右移              | [题解](sword/offer/day2/NumberOf1.java)              |
+| [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 二进制，右移，快速幂            | [题解](sword/offer/day2/Power.java)                  |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
+|                                                              |                                 |                                                      |
 

@@ -15,13 +15,30 @@ package sword.offer.day2;
 public class MaxProductAfterCutting {
 
     public int maxProductAfterCutting(int length) {
+        if (length<=3){
+            return (length - 1);
+        }
+        int res = 1;
+        if (length % 3 == 1) {
+            res *= 4;
+            length -= 4;
+        }
 
-        return 0;
+        if (length % 3 == 2) {
+            res *= 2;
+            length -= 2;
+        }
+
+        while (length > 0) {
+            res *= 3;
+            length -= 3;
+        }
+        return res;
     }
 
     public static void main(String[] args) {
         MaxProductAfterCutting maxProductAfterCutting = new MaxProductAfterCutting();
-        int i = maxProductAfterCutting.maxProductAfterCutting(8);
+        int i = maxProductAfterCutting.maxProductAfterCutting(4);
         System.out.println(i);
     }
 }
