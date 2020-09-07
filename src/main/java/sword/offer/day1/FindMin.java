@@ -1,4 +1,4 @@
-package sword.offer;
+package sword.offer.day1;
 
 /**
  * 旋转数组的最小数字

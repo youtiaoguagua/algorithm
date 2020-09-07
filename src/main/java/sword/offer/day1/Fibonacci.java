@@ -1,4 +1,4 @@
-package sword.offer;
+package sword.offer.day1;
 
 /**
  * 斐波那契数列

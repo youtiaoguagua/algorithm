@@ -1,4 +1,4 @@
-package sword.offer;
+package sword.offer.day1;
 
 /**
  *  矩阵中的路径
@@ -31,29 +31,31 @@ public class HasPath {
         return false;
     }
     public boolean dfs(char[][] matrix, String str, int n, int x, int y){
-        if (n==str.length()){
-            return true;
-        }
 
         if (matrix[x][y]!=str.charAt(n)){
             return false;
         }
 
+        if (n==str.length()-1){
+            return true;
+        }
+
+
         char tmp = matrix[x][y];
         matrix[x][y] = '*';
 
-        if (x-1>0&& dfs(matrix,str,n+1,x-1,y)){
+        if (x-1>=0&& dfs(matrix,str,n+1,x-1,y)){
            return true;
         }
-        if (x+1<matrix[0].length&& dfs(matrix,str,n+1,x+1,y)){
+        if (x+1<matrix.length&& dfs(matrix,str,n+1,x+1,y)){
             return true;
         }
 
-        if (y-1>0&& dfs(matrix,str,n+1,x,y-1)){
+        if (y-1>=0&& dfs(matrix,str,n+1,x,y-1)){
             return true;
         }
 
-        if (y+1<matrix.length&& dfs(matrix,str,n+1,x,y+1)){
+        if (y+1<matrix[0].length&& dfs(matrix,str,n+1,x,y+1)){
             return true;
         }
 
@@ -63,7 +65,8 @@ public class HasPath {
 
     public static void main(String[] args) {
         HasPath hasPath = new HasPath();
-        boolean bcce = hasPath.hasPath(new char[][]{{'A', 'B', 'C', 'E'}, {'S', 'F', 'C', 'S'}, {'A', 'D', 'E', 'E'}}, "BCCE");
+        //boolean bcce = hasPath.hasPath(new char[][]{{'A', 'B', 'C', 'E'}, {'S', 'F', 'C', 'S'}, {'A', 'D', 'E', 'E'}}, "BCCE");
+        boolean bcce = hasPath.hasPath(new char[][]{{'A'}}, "A");
         System.out.println(bcce);
     }
 

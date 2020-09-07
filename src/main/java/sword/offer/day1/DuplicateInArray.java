@@ -1,4 +1,4 @@
-package sword.offer;
+package sword.offer.day1;
 
 /**
  *不修改数组找出重复的数字

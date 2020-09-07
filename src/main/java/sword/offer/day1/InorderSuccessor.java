@@ -1,4 +1,4 @@
-package sword.offer;
+package sword.offer.day1;
 
 /**
  * 二叉树的下一个节点
