@@ -1,6 +1,8 @@
 # 记录
 
-### 剑指offer
+## 剑指offer
+
+### day1
 
 | 题目                                                         | 知识点                   | 题解                                             |
 | :----------------------------------------------------------- | ------------------------ | ------------------------------------------------ |
@@ -16,4 +18,25 @@
 | [斐波那契数列扩展](https://www.acwing.com/blog/content/25/)  | 知识点                   | 扩展                                             |
 | [旋转数组的最小数字](https://www.acwing.com/problem/content/20/) | 二分法                   | [题解](sword/offer/day1/FindMin.java)            |
 | [矩阵中的路径](https://www.acwing.com/problem/content/21/)   | 枚举                     | [题解](sword/offer/day1/HasPath.java)            |
+
+
+
+### day2
+
+| 题目                                                         | 知识点 | 题解                                      |
+| ------------------------------------------------------------ | ------ | ----------------------------------------- |
+| [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof) | 递归   | [题解](sword/offer/day2/MovingCount.java) |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        | [题解](sword/offer/day2/HasPath.java)     |
+|                                                              |        |                                           |
 
