@@ -29,14 +29,29 @@
 | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | 公式（分成最多的3是，乘积最大） | [题解](sword/offer/day2/MaxProductAfterCutting.java) |
 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 二进制，无符号右移              | [题解](sword/offer/day2/NumberOf1.java)              |
 | [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 二进制，右移，快速幂            | [题解](sword/offer/day2/Power.java)                  |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 | [题解](sword/offer/day2/HasPath.java)                |
-|                                                              |                                 |                                                      |
+| [在O(1)时间删除链表结点](https://www.acwing.com/problem/content/85/) | 链表                            | [题解](sword/offer/day2/DeleteNode.java)             |
+| [删除链表中重复的节点](https://www.acwing.com/problem/content/27/) | 链表                            | [题解](sword/offer/day2/DeleteDuplication.java)      |
+| [正则表达式匹配](https://www.acwing.com/problem/content/28/) | 动态规划                        | [题解](sword/offer/day2/IsMatch.java)                |
+| [表示数值的字符串](https://www.acwing.com/problem/content/29/) | 分情况讨论 or 正则表达式        | [题解](sword/offer/day2/IsNumber.java)               |
+| [调整数组顺序使奇数位于偶数前面](https://www.acwing.com/problem/content/30/) | 双指针                          | [题解](sword/offer/day2/ReOrderArray.java)           |
+| [链表中倒数第k个节点](https://www.acwing.com/problem/content/32/) | 链表                            | [题解](sword/offer/day2/FindKthToTail.java)          |
+| [链表中环的入口结点](https://www.acwing.com/problem/content/86/) | 链表                            | [题解](sword/offer/day2/EntryNodeOfLoop.java)        |
+
+
+
+### day3
+
+| 题目 | 知识点 | 解题 |
+| ---- | ------ | ---- |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
 
