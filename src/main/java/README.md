@@ -41,17 +41,17 @@
 
 ### day3
 
-| 题目 | 知识点 | 解题 |
-| ---- | ------ | ---- |
-|      |        |      |
-|      |        |      |
-|      |        |      |
-|      |        |      |
-|      |        |      |
-|      |        |      |
-|      |        |      |
-|      |        |      |
-|      |        |      |
-|      |        |      |
-|      |        |      |
+| 题目                                                         | 知识点 | 解题                                      |
+| ------------------------------------------------------------ | ------ | ----------------------------------------- |
+| [反转链表](https://www.acwing.com/problem/content/33/)       | 链表   | [题解](sword/offer/day3/ReverseList.java) |
+| [合并两个排序的链表](https://www.acwing.com/problem/content/34/) |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
+|                                                              |        | [题解](sword/offer/day3/.java)            |
 

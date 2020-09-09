@@ -9,4 +9,9 @@ public class MainTest {
         boolean a = false || true&&false;
         System.out.println(a);
     }
+
+    @Test
+    public void test2() {
+        System.out.println(false&&false);
+    }
 }
