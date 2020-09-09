@@ -47,6 +47,39 @@ public class Merge {
         return node.next;
     }
 
+    /**
+     * 简化一点点
+     */
+    public ListNode merge2(ListNode l1, ListNode l2) {
+        if (l1 == null && l2 != null) {
+            return l2;
+        } else if (l1 != null && l2 == null) {
+            return l1;
+        }
+        ListNode cur1 = l1, cur2 = l2;
+        ListNode node = new ListNode(-1), cur = node;
+        while (!(cur1 == null && cur2 == null)) {
+            if (cur1!=null){
+                if (cur2 == null || cur1.val <= cur2.val) {
+                    cur.next = cur1;
+                    cur = cur.next;
+                    cur1 = cur1.next;
+                }
+            }
+
+            if (cur2!=null){
+                if (cur1 == null || cur2.val <= cur1.val) {
+                    cur.next = cur2;
+                    cur = cur.next;
+                    cur2 = cur2.next;
+                }
+            }
+
+        }
+
+        return node.next;
+    }
+
     public static void main(String[] args) {
         Merge merge = new Merge();
         //[4, 8, 15, 19, 20, 23, 34]
