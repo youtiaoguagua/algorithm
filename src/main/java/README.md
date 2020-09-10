@@ -55,3 +55,20 @@
 | [分行从上往下打印二叉树](https://www.acwing.com/problem/content/42/) | 横向打印二叉树 | [题解](sword/offer/day3/PrintFromTopToBottom2.java)          |
 | [之字形打印二叉树](https://www.acwing.com/problem/content/43/) | 横向打印二叉树 | [题解](sword/offer/day3/PrintFromTopToBottom3.java)          |
 
+
+
+### day4
+
+| 题目                                                         | 知识点   | 解题                                                         |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| [二叉搜索树的后序遍历序列](https://www.acwing.com/problem/content/44/) | 中序遍历 | [解题](sword/offer/day4/VerifySequenceOfBST2.java)  [解题](sword/offer/day4/VerifySequenceOfBST.java) |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+|                                                              |          | [解题](sword/offer/day4/.java)                               |
+
