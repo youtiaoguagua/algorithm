@@ -41,17 +41,17 @@
 
 ### day3
 
-| 题目                                                         | 知识点 | 解题                                      |
-| ------------------------------------------------------------ | ------ | ----------------------------------------- |
-| [反转链表](https://www.acwing.com/problem/content/33/)       | 链表   | [题解](sword/offer/day3/ReverseList.java) |
-| [合并两个排序的链表](https://www.acwing.com/problem/content/34/) |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
-|                                                              |        | [题解](sword/offer/day3/.java)            |
+| 题目                                                         | 知识点         | 解题                                                         |
+| ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ |
+| [反转链表](https://www.acwing.com/problem/content/33/)       | 链表           | [题解](sword/offer/day3/ReverseList.java)                    |
+| [合并两个排序的链表](https://www.acwing.com/problem/content/34/) | 链表           | [题解](sword/offer/day3/HasSubtree.java)                     |
+| [树的子结构](https://www.acwing.com/problem/content/35/)     | 树             | [题解](sword/offer/day3/HasSubtree.java)                     |
+| [二叉树的镜像](https://www.acwing.com/problem/content/37/)   | 树             | [题解](sword/offer/day3/Mirror.java)                         |
+| [对称的二叉树](https://www.acwing.com/problem/content/38/)   | 树             | [题解](sword/offer/day3/IsSymmetric.java)                    |
+| [顺时针打印矩阵](https://www.acwing.com/problem/content/39/) | 二维数组，递归 | [题解](sword/offer/day3/PrintMatrix.java)                    |
+| [包含min函数的栈](https://www.acwing.com/problem/content/90/) | 双栈           | [题解](sword/offer/day3/MinStack2.java) [题解](sword/offer/day3/MinStack.java) |
+| [栈的压入、弹出序列](https://www.acwing.com/problem/content/40/) | 模拟栈         | [题解](sword/offer/day3/IsPopOrder.java)                     |
+| [不分行从上往下打印二叉树](https://www.acwing.com/problem/content/41/) | 横向打印二叉树 | [题解](sword/offer/day3/PrintFromTopToBottom1.java)          |
+| [分行从上往下打印二叉树](https://www.acwing.com/problem/content/42/) | 横向打印二叉树 | [题解](sword/offer/day3/PrintFromTopToBottom2.java)          |
+| [之字形打印二叉树](https://www.acwing.com/problem/content/43/) | 横向打印二叉树 | [题解](sword/offer/day3/PrintFromTopToBottom3.java)          |
 

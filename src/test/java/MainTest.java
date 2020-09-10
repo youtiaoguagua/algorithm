@@ -1,9 +1,17 @@
 import org.junit.jupiter.api.Test;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedList;
 
 public class MainTest {
+
+    @Test
+    public void test5() {
+        ArrayList<Object> objects = new ArrayList<>();
+        System.out.println(objects);
+    }
     @Test
     public void test() {
         boolean a = false || true&&false;
@@ -13,5 +21,27 @@ public class MainTest {
     @Test
     public void test2() {
         System.out.println(false&&false);
+    }
+
+    @Test
+    public void test4() {
+        LinkedList<Integer> integers = new LinkedList<>();
+        integers.add(3);
+        integers.add(7);
+        integers.add(4);
+        integers.add(5);
+        integers.sort((a,b)->{
+            if (a<b){
+                return -1;
+            }
+            if (a>b){
+                return 1;
+            }
+            return 0;
+        });
+
+        for (Integer integer : integers) {
+            System.out.println(integer);
+        }
     }
 }
