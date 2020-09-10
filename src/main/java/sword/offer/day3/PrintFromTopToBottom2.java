@@ -55,6 +55,44 @@ public class PrintFromTopToBottom2 {
         return list;
     }
 
+    /**
+     * 优化版
+     */
+    public List<List<Integer>> printFromTopToBottom2(TreeNode root) {
+        ArrayList<List<Integer>> list = new ArrayList<>();
+        LinkedList<TreeNode> queue = new LinkedList<>();
+
+        queue.add(root);
+        queue.add(null);
+        ArrayList<Integer> tmp = new ArrayList<>();
+        while (!queue.isEmpty()){
+            TreeNode pop = queue.pop();
+            if (pop==null){
+                if (tmp.isEmpty()){
+                    break;
+                }
+                list.add((List<Integer>) tmp.clone());
+                queue.add(null);
+               tmp.clear();
+            }else {
+                tmp.add(pop.val);
+                if (pop.left!=null){
+
+                queue.add(pop.left);
+                }
+
+                if (pop.right!=null){
+
+                queue.add(pop.right);
+                }
+            }
+
+        }
+        return list;
+    }
+
+
+
     static public class TreeNode {
         int val;
         TreeNode left;

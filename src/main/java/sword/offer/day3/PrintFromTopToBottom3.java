@@ -1,6 +1,7 @@
 package sword.offer.day3;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -58,6 +59,49 @@ public class PrintFromTopToBottom3 {
 
 
     }
+
+    /**
+     * 优化版
+     */
+    public List<List<Integer>> printFromTopToBottom2(TreeNode root) {
+        ArrayList<List<Integer>> list = new ArrayList<>();
+        LinkedList<TreeNode> queue = new LinkedList<>();
+
+        queue.add(root);
+        queue.add(null);
+        boolean type = false;
+        ArrayList<Integer> tmp = new ArrayList<>();
+        while (!queue.isEmpty()){
+           TreeNode pop = queue.pop();
+            if (pop==null){
+                if (tmp.isEmpty()){
+                    break;
+                }
+                if (type){
+                    Collections.reverse(tmp);
+                }
+                list.add((List<Integer>) tmp.clone());
+                queue.add(null);
+                tmp.clear();
+                type = !type;
+            }else {
+                tmp.add(pop.val);
+                if (pop.left!=null){
+
+                    queue.add(pop.left);
+                }
+
+                if (pop.right!=null){
+
+                    queue.add(pop.right);
+                }
+            }
+
+        }
+        return list;
+    }
+
+
 
     static public class TreeNode {
         int val;
