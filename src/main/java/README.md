@@ -67,8 +67,8 @@
 | [二叉搜索树与双向链表](https://www.acwing.com/problem/content/87/) | 二叉树，链表     | [解题](sword/offer/day4/Convert.java)                        |
 | [序列化二叉树](https://www.acwing.com/problem/content/46/)   | 二叉树           | [解题](sword/offer/day4/Serialize.java)                      |
 | [数字排列](https://www.acwing.com/problem/content/47/)       | 枚举，递归，回溯 | [解题](sword/offer/day4/Permutation.java)                    |
-|                                                              |                  | [解题](sword/offer/day4/.java)                               |
-|                                                              |                  | [解题](sword/offer/day4/.java)                               |
-|                                                              |                  | [解题](sword/offer/day4/.java)                               |
+| [数组中出现次数超过一半的数字](https://www.acwing.com/problem/content/48/) |                  | [解题](sword/offer/day4/MoreThanHalfNum.java)                |
+| [最小的k个数](https://www.acwing.com/problem/content/49/)    |                  | [解题](sword/offer/day4/GetLeastNumbers.java)                |
+| [数据流中的中位数](https://www.acwing.com/problem/content/88/) |                  | [解题](sword/offer/day4/.java)                               |
 |                                                              |                  | [解题](sword/offer/day4/.java)                               |
 
