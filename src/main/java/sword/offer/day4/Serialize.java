@@ -1,12 +1,5 @@
 package sword.offer.day4;
 
-import com.sun.xml.internal.messaging.saaj.util.ByteOutputStream;
-import sun.reflect.generics.tree.Tree;
-
-import java.io.*;
-import java.util.*;
-import java.util.stream.Collectors;
-
 /**
  * 序列化二叉树
  * @author youtiaoguagua
@@ -58,7 +51,7 @@ public class Serialize {
             return null;
         }
 
-        if (split[cur].equals("null")){
+        if ("null".equals(split[cur])){
             cur++;
             return null;
         }

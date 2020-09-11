@@ -6,10 +6,10 @@
 
 | 题目                                                         | 知识点                   | 题解                                             |
 | :----------------------------------------------------------- | ------------------------ | ------------------------------------------------ |
-| [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | 交换                     | [题解](./sword/offer/day1/FindRepeatNumber.java) |
-| [不修改数组找出重复的数字](https://www.acwing.com/problem/content/15/) | 分治                     | [题解](./sword/offer/day1/DuplicateInArray.java) |
-| [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |                          | [题解](./sword/offer/day1/SearchArray.java)      |
-| [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | api调用                  | [题解](./sword/offer/day1/ReplaceSpaces.java)    |
+| [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | 交换                     | [题解](/sword/offer/day1/FindRepeatNumber.java) |
+| [不修改数组找出重复的数字](https://www.acwing.com/problem/content/15/) | 分治                     | [题解](/sword/offer/day1/DuplicateInArray.java) |
+| [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |                          | [题解](/sword/offer/day1/SearchArray.java)      |
+| [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | api调用                  | [题解](/sword/offer/day1/ReplaceSpaces.java)    |
 | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | 栈                       | [题解](sword/offer/day1/ReplaceSpaces.java)      |
 | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | 递归，前序遍历，中序遍历 | [题解](sword/offer/day1/BuildTree.java)          |
 | [二叉树的下一个节点](https://www.acwing.com/problem/content/description/31/) | 二叉树，中序遍历         | [题解](sword/offer/day1/InorderSuccessor.java)   |
@@ -59,16 +59,16 @@
 
 ### day4
 
-| 题目                                                         | 知识点       | 解题                                                         |
-| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| [二叉搜索树的后序遍历序列](https://www.acwing.com/problem/content/44/) | 中序遍历     | [解题（优化）](sword/offer/day4/VerifySequenceOfBST2.java)  [解题](sword/offer/day4/VerifySequenceOfBST.java) |
-| [二叉树中和为某一值的路径](https://www.acwing.com/problem/content/45/) | 二叉树       | [解题(优化)](sword/offer/day4/FindPath2.java)  [解题](sword/offer/day4/FindPath.java) |
-| [复杂链表的复刻](https://www.acwing.com/problem/content/89/) | 链表         | [解题](sword/offer/day4/copyRandomList.java)                 |
-| [二叉搜索树与双向链表](https://www.acwing.com/problem/content/87/) | 二叉树，链表 | [解题](sword/offer/day4/Convert.java)                        |
-| [序列化二叉树](https://www.acwing.com/problem/content/46/)   | 二叉树       | [解题](sword/offer/day4/Serialize.java)                      |
-|                                                              |              | [解题](sword/offer/day4/.java)                               |
-|                                                              |              | [解题](sword/offer/day4/.java)                               |
-|                                                              |              | [解题](sword/offer/day4/.java)                               |
-|                                                              |              | [解题](sword/offer/day4/.java)                               |
-|                                                              |              | [解题](sword/offer/day4/.java)                               |
+| 题目                                                         | 知识点           | 解题                                                         |
+| ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
+| [二叉搜索树的后序遍历序列](https://www.acwing.com/problem/content/44/) | 中序遍历         | [解题（优化）](sword/offer/day4/VerifySequenceOfBST2.java)  [解题](sword/offer/day4/VerifySequenceOfBST.java) |
+| [二叉树中和为某一值的路径](https://www.acwing.com/problem/content/45/) | 二叉树           | [解题(优化)](sword/offer/day4/FindPath2.java)  [解题](sword/offer/day4/FindPath.java) |
+| [复杂链表的复刻](https://www.acwing.com/problem/content/89/) | 链表             | [解题](sword/offer/day4/CopyRandomList.java)                 |
+| [二叉搜索树与双向链表](https://www.acwing.com/problem/content/87/) | 二叉树，链表     | [解题](sword/offer/day4/Convert.java)                        |
+| [序列化二叉树](https://www.acwing.com/problem/content/46/)   | 二叉树           | [解题](sword/offer/day4/Serialize.java)                      |
+| [数字排列](https://www.acwing.com/problem/content/47/)       | 枚举，递归，回溯 | [解题](sword/offer/day4/Permutation.java)                    |
+|                                                              |                  | [解题](sword/offer/day4/.java)                               |
+|                                                              |                  | [解题](sword/offer/day4/.java)                               |
+|                                                              |                  | [解题](sword/offer/day4/.java)                               |
+|                                                              |                  | [解题](sword/offer/day4/.java)                               |
 
