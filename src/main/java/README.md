@@ -49,7 +49,7 @@
 | [二叉树的镜像](https://www.acwing.com/problem/content/37/)   | 树             | [题解](sword/offer/day3/Mirror.java)                         |
 | [对称的二叉树](https://www.acwing.com/problem/content/38/)   | 树             | [题解](sword/offer/day3/IsSymmetric.java)                    |
 | [顺时针打印矩阵](https://www.acwing.com/problem/content/39/) | 二维数组，递归 | [题解](sword/offer/day3/PrintMatrix.java)                    |
-| [包含min函数的栈](https://www.acwing.com/problem/content/90/) | 双栈           | [题解](sword/offer/day3/MinStack2.java) [题解](sword/offer/day3/MinStack.java) |
+| [包含min函数的栈](https://www.acwing.com/problem/content/90/) | 双栈           | [题解（优化）](sword/offer/day3/MinStack2.java) [题解](sword/offer/day3/MinStack.java) |
 | [栈的压入、弹出序列](https://www.acwing.com/problem/content/40/) | 模拟栈         | [题解](sword/offer/day3/IsPopOrder.java)                     |
 | [不分行从上往下打印二叉树](https://www.acwing.com/problem/content/41/) | 横向打印二叉树 | [题解](sword/offer/day3/PrintFromTopToBottom1.java)          |
 | [分行从上往下打印二叉树](https://www.acwing.com/problem/content/42/) | 横向打印二叉树 | [题解](sword/offer/day3/PrintFromTopToBottom2.java)          |
@@ -59,16 +59,16 @@
 
 ### day4
 
-| 题目                                                         | 知识点   | 解题                                                         |
-| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
-| [二叉搜索树的后序遍历序列](https://www.acwing.com/problem/content/44/) | 中序遍历 | [解题](sword/offer/day4/VerifySequenceOfBST2.java)  [解题](sword/offer/day4/VerifySequenceOfBST.java) |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
-|                                                              |          | [解题](sword/offer/day4/.java)                               |
+| 题目                                                         | 知识点       | 解题                                                         |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| [二叉搜索树的后序遍历序列](https://www.acwing.com/problem/content/44/) | 中序遍历     | [解题（优化）](sword/offer/day4/VerifySequenceOfBST2.java)  [解题](sword/offer/day4/VerifySequenceOfBST.java) |
+| [二叉树中和为某一值的路径](https://www.acwing.com/problem/content/45/) | 二叉树       | [解题(优化)](sword/offer/day4/FindPath2.java)  [解题](sword/offer/day4/FindPath.java) |
+| [复杂链表的复刻](https://www.acwing.com/problem/content/89/) | 链表         | [解题](sword/offer/day4/copyRandomList.java)                 |
+| [二叉搜索树与双向链表](https://www.acwing.com/problem/content/87/) | 二叉树，链表 | [解题](sword/offer/day4/Convert.java)                        |
+| [序列化二叉树](https://www.acwing.com/problem/content/46/)   | 二叉树       | [解题](sword/offer/day4/Serialize.java)                      |
+|                                                              |              | [解题](sword/offer/day4/.java)                               |
+|                                                              |              | [解题](sword/offer/day4/.java)                               |
+|                                                              |              | [解题](sword/offer/day4/.java)                               |
+|                                                              |              | [解题](sword/offer/day4/.java)                               |
+|                                                              |              | [解题](sword/offer/day4/.java)                               |
 
