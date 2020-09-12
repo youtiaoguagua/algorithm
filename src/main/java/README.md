@@ -68,7 +68,7 @@
 | [序列化二叉树](https://www.acwing.com/problem/content/46/)   | 二叉树           | [解题](sword/offer/day4/Serialize.java)                      |
 | [数字排列](https://www.acwing.com/problem/content/47/)       | 枚举，递归，回溯 | [解题](sword/offer/day4/Permutation.java)                    |
 | [数组中出现次数超过一半的数字](https://www.acwing.com/problem/content/48/) |                  | [解题](sword/offer/day4/MoreThanHalfNum.java)                |
-| [最小的k个数](https://www.acwing.com/problem/content/49/)    |                  | [解题](sword/offer/day4/GetLeastNumbers.java)                |
-| [数据流中的中位数](https://www.acwing.com/problem/content/88/) |                  | [解题](sword/offer/day4/.java)                               |
-|                                                              |                  | [解题](sword/offer/day4/.java)                               |
+| [最小的k个数](https://www.acwing.com/problem/content/49/)    | 大堆             | [解题](sword/offer/day4/GetLeastNumbers.java)                |
+| [数据流中的中位数](https://www.acwing.com/problem/content/88/) | 大堆，小堆       | [解题](sword/offer/day4/GetMedianAndInsert.java)  [解题](sword/offer/day4/GetMedianAndInsert2.java) |
+| [连续子数组的最大和](https://www.acwing.com/problem/content/50/) | 动态规划         | [解题](sword/offer/day4/MaxSubArray.java)                    |
 
