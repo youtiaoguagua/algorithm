@@ -8,6 +8,17 @@ import java.util.LinkedList;
 public class MainTest {
 
     @Test
+    public void test6() {
+        ArrayList<Integer> list = new ArrayList<>();
+        int n =123;
+        while (n>0){
+            list.add(n%10);
+            n/=10;
+        }
+        System.out.println(list);
+    }
+
+    @Test
     public void test5() {
         ArrayList<Object> objects = new ArrayList<>();
         System.out.println(objects);

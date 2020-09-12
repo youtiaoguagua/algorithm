@@ -71,4 +71,5 @@
 | [最小的k个数](https://www.acwing.com/problem/content/49/)    | 大堆             | [解题](sword/offer/day4/GetLeastNumbers.java)                |
 | [数据流中的中位数](https://www.acwing.com/problem/content/88/) | 大堆，小堆       | [解题](sword/offer/day4/GetMedianAndInsert.java)  [解题](sword/offer/day4/GetMedianAndInsert2.java) |
 | [连续子数组的最大和](https://www.acwing.com/problem/content/50/) | 动态规划         | [解题](sword/offer/day4/MaxSubArray.java)                    |
+| [从1到n整数中1出现的次数](https://www.acwing.com/problem/content/51/) |                  | [解题](sword/offer/day4/NumberOf1Between1AndN.java)          |
 
