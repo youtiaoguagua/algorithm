@@ -67,9 +67,27 @@
 | [二叉搜索树与双向链表](https://www.acwing.com/problem/content/87/) | 二叉树，链表     | [解题](sword/offer/day4/Convert.java)                        |
 | [序列化二叉树](https://www.acwing.com/problem/content/46/)   | 二叉树           | [解题](sword/offer/day4/Serialize.java)                      |
 | [数字排列](https://www.acwing.com/problem/content/47/)       | 枚举，递归，回溯 | [解题](sword/offer/day4/Permutation.java)                    |
-| [数组中出现次数超过一半的数字](https://www.acwing.com/problem/content/48/) |                  | [解题](sword/offer/day4/MoreThanHalfNum.java)                |
+| [数组中出现次数超过一半的数字](https://www.acwing.com/problem/content/48/) | 数               | [解题](sword/offer/day4/MoreThanHalfNum.java)                |
 | [最小的k个数](https://www.acwing.com/problem/content/49/)    | 大堆             | [解题](sword/offer/day4/GetLeastNumbers.java)                |
 | [数据流中的中位数](https://www.acwing.com/problem/content/88/) | 大堆，小堆       | [解题](sword/offer/day4/GetMedianAndInsert.java)  [解题](sword/offer/day4/GetMedianAndInsert2.java) |
 | [连续子数组的最大和](https://www.acwing.com/problem/content/50/) | 动态规划         | [解题](sword/offer/day4/MaxSubArray.java)                    |
-| [从1到n整数中1出现的次数](https://www.acwing.com/problem/content/51/) |                  | [解题](sword/offer/day4/NumberOf1Between1AndN.java)          |
+| [从1到n整数中1出现的次数](https://www.acwing.com/problem/content/51/) | 数               | [解题](sword/offer/day4/NumberOf1Between1AndN.java)          |
+
+
+
+### day5
+
+| 题目                                                         | 知识点   | 题解                                              |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------- |
+| [数字序列中某一位的数字](https://www.acwing.com/problem/content/52/) | 数       | [题解](sword/offer/day4/DigitAtIndex.java)        |
+| [把数组排成最小的数](https://www.acwing.com/problem/content/54/) | 数       | [题解](sword/offer/day4/PrintMinNumber.java)      |
+| [把数字翻译成字符串](https://www.acwing.com/problem/content/55/) | 数       | [题解](sword/offer/day4/GetTranslationCount.java) |
+| [礼物的最大价值](https://www.acwing.com/problem/content/56/) | 动态规划 | [题解](sword/offer/day4/.java)                    |
+| [最长不含重复字符的子字符串](https://www.acwing.com/problem/content/57/) |          | [题解](sword/offer/day4/.java)                    |
+|                                                              |          | [题解](sword/offer/day4/.java)                    |
+|                                                              |          | [题解](sword/offer/day4/.java)                    |
+|                                                              |          | [题解](sword/offer/day4/.java)                    |
+|                                                              |          | [题解](sword/offer/day4/.java)                    |
+|                                                              |          | [题解](sword/offer/day4/.java)                    |
+|                                                              |          | [题解](sword/offer/day4/.java)                    |
 
