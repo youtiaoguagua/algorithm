@@ -79,15 +79,15 @@
 
 | 题目                                                         | 知识点   | 题解                                                         |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
-| [数字序列中某一位的数字](https://www.acwing.com/problem/content/52/) | 数       | [题解](sword/offer/day4/DigitAtIndex.java)                   |
-| [把数组排成最小的数](https://www.acwing.com/problem/content/54/) | 数       | [题解](sword/offer/day4/PrintMinNumber.java)                 |
-| [把数字翻译成字符串](https://www.acwing.com/problem/content/55/) | 数       | [题解](sword/offer/day4/GetTranslationCount.java)            |
-| [礼物的最大价值](https://www.acwing.com/problem/content/56/) | 动态规划 | [题解](sword/offer/day4/.java)                               |
-| [最长不含重复字符的子字符串](https://www.acwing.com/problem/content/57/) | 双指针   | [题解](sword/offer/day4/.java)                               |
-| [丑数](https://www.acwing.com/problem/content/description/58/) | 数       | [题解](sword/offer/day4/GetUglyNumber.java)                  |
-| [字符串中第一个只出现一次的字符](https://www.acwing.com/problem/content/59/) | 字符串   | [题解](sword/offer/day4/FirstNotRepeatingChar.java)          |
-| [字符流中第一个只出现一次的字符](https://www.acwing.com/problem/content/60/) | 字符串   | [题解](sword/offer/day4/FirstAppearingOnceAndInsert.java)   [解题](sword/offer/day4/FirstAppearingOnceAndInsert2.java) |
-| [数组中的逆序对](https://www.acwing.com/problem/content/61/) | 排序     | [题解](sword/offer/day4/InversePairs.java)                   |
-|                                                              |          | [题解](sword/offer/day4/.java)                               |
-|                                                              |          | [题解](sword/offer/day4/.java)                               |
+| [数字序列中某一位的数字](https://www.acwing.com/problem/content/52/) | 数       | [题解](sword/offer/day5/DigitAtIndex.java)                   |
+| [把数组排成最小的数](https://www.acwing.com/problem/content/54/) | 数       | [题解](sword/offer/day5/PrintMinNumber.java)                 |
+| [把数字翻译成字符串](https://www.acwing.com/problem/content/55/) | 数       | [题解](sword/offer/day5/GetTranslationCount.java)            |
+| [礼物的最大价值](https://www.acwing.com/problem/content/56/) | 动态规划 | [题解](sword/offer/day5/GetMaxValue.java)                    |
+| [最长不含重复字符的子字符串](https://www.acwing.com/problem/content/57/) | 双指针   | [题解](sword/offer/day5/LongestSubstringWithoutDuplication.java) |
+| [丑数](https://www.acwing.com/problem/content/description/58/) | 数       | [题解](sword/offer/day5/GetUglyNumber.java)                  |
+| [字符串中第一个只出现一次的字符](https://www.acwing.com/problem/content/59/) | 字符串   | [题解](sword/offer/day5/FirstNotRepeatingChar.java)          |
+| [字符流中第一个只出现一次的字符](https://www.acwing.com/problem/content/60/) | 字符串   | [题解](sword/offer/day5/FirstAppearingOnceAndInsert.java)   [解题](sword/offer/day4/FirstAppearingOnceAndInsert5.java) |
+| [数组中的逆序对](https://www.acwing.com/problem/content/61/) | 排序     | [题解](sword/offer/day5/InversePairs.java)                   |
+| [两个链表的第一个公共结点](https://www.acwing.com/problem/content/62/) | 链表     | [题解](sword/offer/day5/FindFirstCommonNode.java)            |
+|                                                              |          | [题解](sword/offer/day5/.java)                               |
 

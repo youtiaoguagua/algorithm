@@ -4,8 +4,15 @@ import java.util.ArrayList;
 import java.util.LinkedHashMap;
 
 /**
+ * 字符串中第一个只出现一次的字符
  * @author youtiaoguagua
  * @date 2020/9/13 20:41
+ * 在字符串中找出第一个只出现一次的字符。
+ * 如输入"abaccdeff"，则输出b。
+ * 如果字符串中不存在只出现一次的字符，返回#字符。
+ * 样例：
+ * 输入："abaccdeff"
+ * 输出：'b'
  */
 public class FirstAppearingOnceAndInsert {
     LinkedHashMap<Character,Integer> map =new LinkedHashMap<Character,Integer>();
