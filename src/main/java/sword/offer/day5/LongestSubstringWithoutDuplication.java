@@ -20,7 +20,6 @@ public class LongestSubstringWithoutDuplication {
         }else if (s.length()==1){
             return 1;
         }
-        //HashMap<Character,Integer> map = new HashMap<>();
         char[] chars = s.toCharArray();
 
         int left = 0;
@@ -42,9 +41,29 @@ public class LongestSubstringWithoutDuplication {
         return max;
     }
 
+    public int longestSubstringWithoutDuplication2(String s) {
+        char[] chars = s.toCharArray();
+        int max = 0;
+        HashMap<Character, Integer> map = new HashMap<>();
+        for (int i = 0,j=0; j < chars.length; j++) {
+            Integer merge = map.merge(chars[j], 1, Integer::sum);
+            if (merge>1){
+                while (map.get(chars[i])!=2){
+                    map.merge(chars[i],-1,Integer::sum);
+                    i++;
+                }
+                map.merge(chars[i],-1,Integer::sum);
+                i++;
+            }
+
+            max = Math.max(max, j - i + 1);
+        }
+        return max;
+    }
+
     public static void main(String[] args) {
         LongestSubstringWithoutDuplication t = new LongestSubstringWithoutDuplication();
-        int abcabc = t.longestSubstringWithoutDuplication("chbmmcgc");
+        int abcabc = t.longestSubstringWithoutDuplication2("mchbmmcgc");
         System.out.println(abcabc);
     }
 }
