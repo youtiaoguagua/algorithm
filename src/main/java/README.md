@@ -89,5 +89,5 @@
 | [字符流中第一个只出现一次的字符](https://www.acwing.com/problem/content/60/) | 字符串   | [题解](sword/offer/day5/FirstAppearingOnceAndInsert.java)   [解题](sword/offer/day4/FirstAppearingOnceAndInsert5.java) |
 | [数组中的逆序对](https://www.acwing.com/problem/content/61/) | 排序     | [题解](sword/offer/day5/InversePairs.java)                   |
 | [两个链表的第一个公共结点](https://www.acwing.com/problem/content/62/) | 链表     | [题解](sword/offer/day5/FindFirstCommonNode.java)            |
-|                                                              |          | [题解](sword/offer/day5/.java)                               |
+| [数字在排序数组中出现的次数](https://www.acwing.com/problem/content/63/) | 二分     | [题解](sword/offer/day5/GetNumberOfK.java)                   |
 
