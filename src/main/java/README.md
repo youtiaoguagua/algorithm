@@ -91,3 +91,21 @@
 | [两个链表的第一个公共结点](https://www.acwing.com/problem/content/62/) | 链表     | [题解](sword/offer/day5/FindFirstCommonNode.java)            |
 | [数字在排序数组中出现的次数](https://www.acwing.com/problem/content/63/) | 二分     | [题解](sword/offer/day5/GetNumberOfK.java)                   |
 
+
+
+### day6
+
+| 题目                                                         | 知识点 | 题解                                           |
+| ------------------------------------------------------------ | ------ | ---------------------------------------------- |
+| [0到n-1中缺失的数字](https://www.acwing.com/problem/content/64/) | 数     | [题解](sword/offer/day6/GetMissingNumber.java) |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+|                                                              |        | [题解](sword/offer/day6/.java)                 |
+
