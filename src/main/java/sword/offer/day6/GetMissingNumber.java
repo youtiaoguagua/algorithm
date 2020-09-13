@@ -18,8 +18,8 @@ public class GetMissingNumber {
     public int getMissingNumber(int[] nums) {
         int n = nums.length+1;
         int j = (nums.length) * n / 2;
-        for (int i = 0; i < nums.length; i++) {
-            j-=nums[i];
+        for (int num : nums) {
+            j -= num;
         }
         return j;
     }
