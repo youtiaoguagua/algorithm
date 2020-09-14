@@ -104,8 +104,8 @@
 | [平衡二叉树](https://www.acwing.com/problem/content/68/)     | 二叉树       | [题解](sword/offer/day6/IsBalanced.java)                     |
 | [数组中只出现一次的两个数字](https://www.acwing.com/problem/content/69/) | 位运算       | [题解](sword/offer/day6/FindNumsAppearOnce.java)             |
 | [数组中唯一只出现一次的数字](https://www.acwing.com/problem/content/70/) | 位运算       | [题解](sword/offer/day6/FindNumberAppearingOnce.java)        |
-|                                                              |              | [题解](sword/offer/day6/.java)                               |
-|                                                              |              | [题解](sword/offer/day6/.java)                               |
-|                                                              |              | [题解](sword/offer/day6/.java)                               |
-|                                                              |              | [题解](sword/offer/day6/.java)                               |
+| [和为S的两个数字](https://www.acwing.com/problem/content/71/) | 查找         | [题解](sword/offer/day6/FindNumbersWithSum.java)             |
+| [和为S的连续正数序列](https://www.acwing.com/problem/content/72/) |              | [题解](sword/offer/day6/FindContinuousSequence.java)         |
+| [翻转单词顺序](https://www.acwing.com/problem/content/73/)   | 字符串       | [题解](sword/offer/day6/ReverseWords.java)                   |
+| [左旋转字符串](https://www.acwing.com/problem/content/74/)   | 字符串       | [题解](sword/offer/day6/LeftRotateString.java)               |
 

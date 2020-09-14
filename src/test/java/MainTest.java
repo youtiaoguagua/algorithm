@@ -1,15 +1,16 @@
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedList;
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class MainTest {
 
     @Test
     public void test7() {
-        System.out.println(2&1<<1);
+        List<Integer> collect = IntStream.range(0, 3).mapToObj(Integer::new).collect(Collectors.toList());
+        System.out.println(collect);
+
     }
 
     @Test
