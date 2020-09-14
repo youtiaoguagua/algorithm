@@ -8,6 +8,11 @@ import java.util.LinkedList;
 public class MainTest {
 
     @Test
+    public void test7() {
+        System.out.println(2&1<<1);
+    }
+
+    @Test
     public void test6() {
         ArrayList<Integer> list = new ArrayList<>();
         int n =123;

@@ -33,7 +33,7 @@ public class FindNumberAppearingOnce {
         for (int i = 0; i < nums.length; i++) {
             //int k =0;
             for (int j = 31,k=0; j >=0; j--,k++) {
-                if ((nums[i]&(1<<k))==1){
+                if ((nums[i]&(1<<k))!=0){
                     ints[j]+=1;
                 }
             }
@@ -41,14 +41,17 @@ public class FindNumberAppearingOnce {
 
         int res = 0;
         for (int i = 0; i < ints.length; i++) {
+            //将结果左移一位
             res=res<<1;
+            //左移之后加上0或者1
             res+=ints[i]%3;
         }
         return res;
     }
 
     public static void main(String[] args) {
-        FindNumberAppearingOnce findNumberAppearingOnce = new FindNumberAppearingOnce();
-        findNumberAppearingOnce.findNumberAppearingOnce(new int[]{1,1,1,2,2,2,3,4,4,4});
+        FindNumberAppearingOnce a = new FindNumberAppearingOnce();
+        int b = a.findNumberAppearingOnce2(new int[]{1, 1, 1, 2, 2, 2, 3, 4, 4, 4});
+        System.out.println(b);
     }
 }
