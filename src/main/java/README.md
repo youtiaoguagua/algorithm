@@ -95,17 +95,17 @@
 
 ### day6
 
-| 题目                                                         | 知识点 | 题解                                           |
-| ------------------------------------------------------------ | ------ | ---------------------------------------------- |
-| [0到n-1中缺失的数字](https://www.acwing.com/problem/content/64/) | 数     | [题解](sword/offer/day6/GetMissingNumber.java) |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
-|                                                              |        | [题解](sword/offer/day6/.java)                 |
+| 题目                                                         | 知识点       | 题解                                                         |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| [0到n-1中缺失的数字](https://www.acwing.com/problem/content/64/) | 二分         | [题解](sword/offer/day6/GetMissingNumber.java)   [二分模板](https://www.acwing.com/blog/content/31/) |
+| [数组中数值和下标相等的元素](https://www.acwing.com/problem/content/65/) | 二分         | [题解](sword/offer/day6/GetNumberSameAsIndex.java)  [二分模板](https://www.acwing.com/blog/content/31/) |
+| [二叉搜索树的第k个结点](https://www.acwing.com/problem/content/66/) | 树，中序遍历 | [题解](sword/offer/day6/KthNode.java)                        |
+| [二叉树的深度](https://www.acwing.com/problem/content/67/)   | 树，前序遍历 | [题解](sword/offer/day6/TreeDepth.java)                      |
+| [平衡二叉树](https://www.acwing.com/problem/content/68/)     | 二叉树       | [题解](sword/offer/day6/IsBalanced.java)                     |
+| [数组中只出现一次的两个数字](https://www.acwing.com/problem/content/69/) | 位运算       | [题解](sword/offer/day6/FindNumsAppearOnce.java)             |
+| [数组中唯一只出现一次的数字](https://www.acwing.com/problem/content/70/) | 位运算       | [题解](sword/offer/day6/FindNumberAppearingOnce.java)        |
+|                                                              |              | [题解](sword/offer/day6/.java)                               |
+|                                                              |              | [题解](sword/offer/day6/.java)                               |
+|                                                              |              | [题解](sword/offer/day6/.java)                               |
+|                                                              |              | [题解](sword/offer/day6/.java)                               |
 
