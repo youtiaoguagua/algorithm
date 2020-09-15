@@ -109,3 +109,20 @@
 | [翻转单词顺序](https://www.acwing.com/problem/content/73/)   | 字符串       | [题解](sword/offer/day6/ReverseWords.java)                   |
 | [左旋转字符串](https://www.acwing.com/problem/content/74/)   | 字符串       | [题解](sword/offer/day6/LeftRotateString.java)               |
 
+
+
+### day7
+
+| 题目                                                         | 知识点           | 题解                                               |
+| ------------------------------------------------------------ | ---------------- | -------------------------------------------------- |
+| [滑动窗口的最大值](https://www.acwing.com/problem/content/75/) | 滑动窗口         | [题解](sword/offer/day7/MaxInWindows.java)         |
+| [骰子的点数](https://www.acwing.com/problem/content/76/)     | 动态规划         | [题解](sword/offer/day7/NumberOfDice.java)         |
+| [扑克牌的顺子](https://www.acwing.com/problem/content/77/)   |                  | [题解](sword/offer/day7/IsContinuous.java)         |
+| [圆圈中最后剩下的数字](https://www.acwing.com/problem/content/78/) |                  | [题解](sword/offer/day7/.java)                     |
+| [股票的最大利润](https://www.acwing.com/problem/content/79/) | 动态规划         | [题解](sword/offer/day7/MaxDiff.java)              |
+| [求1+2+…+n](https://www.acwing.com/problem/content/80/)      |                  | [题解](sword/offer/day7/.java)                     |
+| [不用加减乘除做加法](https://www.acwing.com/problem/content/description/81/) | 位运算，逻辑运算 | [题解](sword/offer/day7/Add.java)                  |
+| [构建乘积数组](https://www.acwing.com/problem/content/82/)   |                  | [题解](sword/offer/day7/Multiply.java)             |
+| [把字符串转换成整数](https://www.acwing.com/problem/content/83/) |                  | [题解](sword/offer/day7/StrToInt.java)             |
+| [树中两个结点的最低公共祖先](https://www.acwing.com/problem/content/84/) | 二叉树           | [题解](sword/offer/day7/LowestCommonAncestor.java) |
+

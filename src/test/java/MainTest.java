@@ -1,4 +1,5 @@
 import org.junit.jupiter.api.Test;
+import sword.offer.day7.LowestCommonAncestor;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -8,8 +9,8 @@ public class MainTest {
 
     @Test
     public void test7() {
-        List<Integer> collect = IntStream.range(0, 3).mapToObj(Integer::new).collect(Collectors.toList());
-        System.out.println(collect);
+        LowestCommonAncestor.TreeNode node = new LowestCommonAncestor.TreeNode (4);
+        System.out.println(node==null);
 
     }
 
