@@ -44,7 +44,7 @@ public class QuickSort {
             nums[start] = baseNum;
         }
 
-        dfs(nums,0,start-1);
+        dfs(nums,startIndex,start-1);
         dfs(nums,end+1,endIndex);
     }
 }

@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 /**
  * 快速排序
+ *
  * @author youtiaoguagua
  * @date 2020/9/16 14:01
  * 给定你一个长度为n的整数数列。
@@ -26,52 +27,75 @@ import java.util.Scanner;
 public class QuickSort {
 
     public static void main(String[] args) {
-        //Scanner scanner = new Scanner(System.in);
-        //int i = scanner.nextInt();
-        //int[] ints = new int[i];
-        //for (int j = 0; j < i; j++) {
-        //    int t = scanner.nextInt();
-        //    ints[j] = t;
-        //}
-        QuickSort quickSort = new QuickSort();
-        int[] ints = {3, 1, 2, 4, 5};
-        int[] sort = quickSort.sort(ints);
-       Arrays.stream(sort).forEach((a)-> System.out.printf("%d ",a));
+        Scanner scanner = new Scanner(System.in);
+        int i = scanner.nextInt();
+        int[] ints = new int[i];
+        for (int j = 0; j < i; j++) {
+            int t = scanner.nextInt();
+            ints[j] = t;
+        }
+        //int[] ints = {49 ,59, 88 ,37 ,98, 97 ,68 ,54 ,1 ,3};
+        sort(ints);
+        Arrays.stream(ints).forEach((a) -> System.out.printf("%d ", a));
     }
 
-    public int[] sort(int[] nums){
-        dfs(nums,0,nums.length-1);
-        return nums;
+    public static void sort(int n[]) {
+        dfs(n, 0, n.length - 1);
     }
 
-
-    public void dfs(int[] nums, int l, int r){
-        if (r<=0||l>= r){
+    public static void dfs(int[] nums, int l, int r) {
+        if (l >= r) {
             return;
         }
-        int left = l+1,right=r;
+        int left = l, right = r;
 
         int base = nums[l];
-        while (left<right){
-            while (left< right&&nums[right]>base){
+        while (left < right) {
+            while (left < right && nums[right] >= base) {
                 right--;
             }
-
-            while (left< right&&nums[left]<base){
+            while (left < right && nums[left] <= base) {
                 left++;
             }
             int tmp = nums[left];
             nums[left] = nums[right];
             nums[right] = tmp;
         }
-
-        if (nums[left]<base){
-            nums[l] = nums[left];
-            nums[left] = base;
-        }
-        dfs(nums,0,left-1);
-        dfs(nums,left+1,r);
+        int tmp2 = nums[l];
+        nums[l] = nums[left];
+        nums[left] = tmp2;
+        dfs(nums, l, left - 1);
+        dfs(nums, left + 1, r);
     }
 
 
+    public static void sort2(int[] nums,int left,int right){
+        if (left >= right) {
+            return;
+        }
+        int l = left-1;
+        int r = right +1;
+        int key = nums[left];
+        while (l<r){
+
+
+            do {
+                l++;
+            }while (nums[l]<key);
+
+            do {
+                r--;
+            }while (nums[r]>key);
+
+
+
+            if (l<r){
+                int tmp = nums[l];
+                nums[l] = nums[r];
+                nums[r] = tmp;
+            }
+        }
+        sort2(nums,left,r);
+        sort2(nums,r+1,right);
+    }
 }
