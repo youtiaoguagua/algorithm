@@ -6,7 +6,7 @@ public class QuickSort {
 
     public static void main(String[] args) {
         QuickSort quickSort = new QuickSort();
-        int[] sort = quickSort.sort(new int[]{5, 4, 3, 10, -1, 2, 1});
+        int[] sort = quickSort.sort(new int[]{3, 1, 2, 4, 5});
         String s = Arrays.toString(sort);
         System.out.println(s);
     }
@@ -39,8 +39,10 @@ public class QuickSort {
             nums[start] = tmp;
         }
 
-        nums[startIndex] = nums[start];
-        nums[start] = baseNum;
+        if (nums[start]<baseNum){
+            nums[startIndex] = nums[start];
+            nums[start] = baseNum;
+        }
 
         dfs(nums,0,start-1);
         dfs(nums,end+1,endIndex);
