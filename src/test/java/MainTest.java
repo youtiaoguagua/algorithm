@@ -11,9 +11,10 @@ import java.util.stream.IntStream;
 public class MainTest {
 
     @Test
-    public void test8() {
-
-
+    public void test8() throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        String s = bufferedReader.readLine();
+        System.out.println(s);
     }
 
     @Test
