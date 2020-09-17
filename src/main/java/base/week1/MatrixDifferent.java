@@ -43,7 +43,6 @@ public class MatrixDifferent {
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
         String s = reader.readLine();
         String[] s1 = s.split(" ");
-        //Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(s1[0]);
         int m = Integer.parseInt(s1[1]);
         int q = Integer.parseInt(s1[2]);
