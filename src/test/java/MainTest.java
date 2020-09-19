@@ -11,6 +11,13 @@ import java.util.stream.IntStream;
 public class MainTest {
 
     @Test
+    public void test11() {
+        double a =  3.2;
+        System.out.println(a/2);
+
+    }
+
+    @Test
     public void test10() {
         int cap = 665;
             int n = cap - 1;
