@@ -6,7 +6,7 @@
 
 | 题目                                                    | 知识点                   | 地址                          |
 | ------------------------------------------------------- | ------------------------ | ----------------------------- |
-| <b>dsadsad</b>                                          |                          |                               |
+| <b color="blue">dsadsad</b>                             |                          |                               |
 | [快速排序](https://www.acwing.com/problem/content/787/) | 排序，分治（面试喜欢问） | [题解](/week1/QuickSort.java) |
 | [第k个数](https://www.acwing.com/problem/content/788/)  | 分治                     | [题解](/week1/KNumber.java)   |
 #### 归并排序
