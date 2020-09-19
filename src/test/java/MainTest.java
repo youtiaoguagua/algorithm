@@ -11,6 +11,18 @@ import java.util.stream.IntStream;
 public class MainTest {
 
     @Test
+    public void test10() {
+        int cap = 665;
+            int n = cap - 1;
+            n |= n >>> 1;
+            n |= n >>> 2;
+            n |= n >>> 4;
+            n |= n >>> 8;
+            n |= n >>> 16;
+            System.out.println(n+1);
+    }
+
+    @Test
     public void test8() throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String s = bufferedReader.readLine();
