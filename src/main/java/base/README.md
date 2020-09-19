@@ -24,26 +24,26 @@
 
 ## week2
 
-| 标题   | 题目 | 知识点 | 地址 |
-| ------ | ---- | ------ | ---- |
-| 单链表 |      |        |      |
-| 双链表 |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
-|        |      |        |      |
+| 标题     | 题目                                                    | 知识点 | 地址                                |
+| -------- | ------------------------------------------------------- | ------ | ----------------------------------- |
+| 单链表   | [单链表](https://www.acwing.com/problem/content/828/)   |        | [题解](/week2/SigleList.java)       |
+| 双链表   | [双链表](https://www.acwing.com/problem/content/829/)   |        | [题解](/week2/.java)                |
+| 栈       | [模拟栈](https://www.acwing.com/problem/content/830/)   |        | [题解](/week2/AcStack.java)         |
+| 队列     | [模拟队列](https://www.acwing.com/problem/content/831/) |        | [题解](/week2/SimulationQueue.java) |
+| 单调队列 | [单调栈](https://www.acwing.com/problem/content/832/)   |        | [题解](/week2/MonotonicStack.java)  |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
+|          |                                                         |        | [题解](/week2/.java)                |
 
