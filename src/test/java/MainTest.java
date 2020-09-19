@@ -12,8 +12,9 @@ public class MainTest {
 
     @Test
     public void test11() {
-        double a =  3.2;
-        System.out.println(a/2);
+        System.out.println(Integer.MAX_VALUE);
+    //    2147483647
+    //    2499304400
 
     }
 
