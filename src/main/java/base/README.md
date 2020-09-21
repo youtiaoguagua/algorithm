@@ -24,26 +24,26 @@
 
 ## week2
 
-| 标题     | 题目                                                    | 知识点 | 地址                                |
-| -------- | ------------------------------------------------------- | ------ | ----------------------------------- |
-| 单链表   | [单链表](https://www.acwing.com/problem/content/828/)   |        | [题解](/week2/SigleList.java)       |
-| 双链表   | [双链表](https://www.acwing.com/problem/content/829/)   |        | [题解](/week2/.java)                |
-| 栈       | [模拟栈](https://www.acwing.com/problem/content/830/)   |        | [题解](/week2/AcStack.java)         |
-| 队列     | [模拟队列](https://www.acwing.com/problem/content/831/) |        | [题解](/week2/SimulationQueue.java) |
-| 单调队列 | [单调栈](https://www.acwing.com/problem/content/832/)   |        | [题解](/week2/MonotonicStack.java)  |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
-|          |                                                         |        | [题解](/week2/.java)                |
+| 标题     | 题目                                                         | 知识点 | 地址                                 |
+| -------- | ------------------------------------------------------------ | ------ | ------------------------------------ |
+| 单链表   | [单链表](https://www.acwing.com/problem/content/828/)        |        | [题解](/week2/SigleList.java)        |
+| 双链表   | [双链表](https://www.acwing.com/problem/content/829/)        |        | [题解](/week2/.java)                 |
+| 栈       | [模拟栈](https://www.acwing.com/problem/content/830/)        |        | [题解](/week2/AcStack.java)          |
+| 队列     | [模拟队列](https://www.acwing.com/problem/content/831/)      |        | [题解](/week2/SimulationQueue.java)  |
+| 单调栈   | [单调栈](https://www.acwing.com/problem/content/832/)        |        | [题解](/week2/MonotonicStack.java)   |
+| 单调队列 | [滑动窗口](https://www.acwing.com/problem/content/156/)      |        | [题解](/week2/SlidingWindow.java)    |
+| KMP      | [KMP字符串](https://www.acwing.com/problem/content/833/)     |        | [题解](/week2/KMP.java)              |
+| Trie     | [Trie字符串统计](https://www.acwing.com/problem/content/837/) |        | [题解](/week2/Trie.java)             |
+|          |                                                              |        | [题解](/week2/.java)                 |
+| 并查集   | [合并集合](https://www.acwing.com/problem/content/838/)      |        | [题解](/week2/MergeConllection.java) |
+|          | [连通块中点的数量](https://www.acwing.com/problem/content/839/) |        | [题解](/week2/PointInBlock.java)     |
+|          |                                                              |        | [题解](/week2/.java)                 |
+| 堆       | [堆排序](https://www.acwing.com/problem/content/840/)        |        | [题解](/week2/HeapSort.java)         |
+|          |                                                              |        | [题解](/week2/.java)                 |
+| 哈希表   |                                                              |        | [题解](/week2/.java)                 |
+|          |                                                              |        | [题解](/week2/.java)                 |
+|          |                                                              |        | [题解](/week2/.java)                 |
+|          |                                                              |        | [题解](/week2/.java)                 |
+|          |                                                              |        | [题解](/week2/.java)                 |
+|          |                                                              |        | [题解](/week2/.java)                 |
 
