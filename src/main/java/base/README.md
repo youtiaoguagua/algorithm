@@ -34,16 +34,12 @@
 | 单调队列 | [滑动窗口](https://www.acwing.com/problem/content/156/)      |        | [题解](/week2/SlidingWindow.java)    |
 | KMP      | [KMP字符串](https://www.acwing.com/problem/content/833/)     |        | [题解](/week2/KMP.java)              |
 | Trie     | [Trie字符串统计](https://www.acwing.com/problem/content/837/) |        | [题解](/week2/Trie.java)             |
-|          |                                                              |        | [题解](/week2/.java)                 |
+|          | [最大异或对](https://www.acwing.com/problem/content/145/)    |        | [题解](/week2/MaxAndOr.java)         |
 | 并查集   | [合并集合](https://www.acwing.com/problem/content/838/)      |        | [题解](/week2/MergeConllection.java) |
 |          | [连通块中点的数量](https://www.acwing.com/problem/content/839/) |        | [题解](/week2/PointInBlock.java)     |
 |          |                                                              |        | [题解](/week2/.java)                 |
 | 堆       | [堆排序](https://www.acwing.com/problem/content/840/)        |        | [题解](/week2/HeapSort.java)         |
-|          |                                                              |        | [题解](/week2/.java)                 |
-| 哈希表   |                                                              |        | [题解](/week2/.java)                 |
-|          |                                                              |        | [题解](/week2/.java)                 |
-|          |                                                              |        | [题解](/week2/.java)                 |
-|          |                                                              |        | [题解](/week2/.java)                 |
-|          |                                                              |        | [题解](/week2/.java)                 |
-|          |                                                              |        | [题解](/week2/.java)                 |
+|          | [模拟堆](https://www.acwing.com/problem/content/841/)        |        | [题解](/week2/SimulationHeap.java)   |
+| 哈希表   | [模拟散列表](https://www.acwing.com/problem/content/842/)    |        | [题解](/week2/MockHashTable.java)    |
+|          | [字符串哈希](https://www.acwing.com/problem/content/843/)    |        | [题解](/week2/StrHash.java)          |
 
