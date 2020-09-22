@@ -47,23 +47,23 @@
 
 ## week3
 
-| 标题                 | 题目                                                      | 知识点 | 地址                                                         |
-| -------------------- | --------------------------------------------------------- | ------ | ------------------------------------------------------------ |
-| DFS                  | [排列数字](https://www.acwing.com/problem/content/844/)   |        | [题解](/week3/StrHash.java)                                  |
-|                      | [n-皇后问题](https://www.acwing.com/problem/content/845/) |        | [题解](/week3/EightQueens.java)  [题解](/week3/EightQueens2.java) |
-| BFS                  | [走迷宫](https://www.acwing.com/problem/content/846/)     |        | [题解](/week3/)                                              |
-|                      |                                                           |        | [题解](/week3/.java)                                         |
-| 树与图的深度优先遍历 |                                                           |        | [题解](/week3/.java)                                         |
-| 树与图的广度优先遍历 |                                                           |        | [题解](/week3/.java)                                         |
-| 拓扑排序             |                                                           |        | [题解](/week3/.java)                                         |
-| Dijkstra             |                                                           |        | [题解](/week3/.java)                                         |
-|                      |                                                           |        | [题解](/week3/.java)                                         |
-| bellman-ford         |                                                           |        | [题解](/week3/.java)                                         |
-| spfa                 |                                                           |        | [题解](/week3/.java)                                         |
-|                      |                                                           |        | [题解](/week3/.java)                                         |
-| Floyd                |                                                           |        | [题解](/week3/.java)                                         |
-| Prim                 |                                                           |        | [题解](/week3/.java)                                         |
-| Kruskal              |                                                           |        | [题解](/week3/.java)                                         |
-| 染色法判定二分图     |                                                           |        | [题解](/week3/.java)                                         |
-| 匈牙利算法           |                                                           |        | [题解](/week3/.java)                                         |
+| 标题                 | 题目                                                        | 知识点 | 地址                                                         |
+| -------------------- | ----------------------------------------------------------- | ------ | ------------------------------------------------------------ |
+| DFS                  | [排列数字](https://www.acwing.com/problem/content/844/)     |        | [题解](/week3/StrHash.java)                                  |
+|                      | [n-皇后问题](https://www.acwing.com/problem/content/845/)   |        | [题解](/week3/EightQueens.java)  [题解](/week3/EightQueens2.java) |
+| BFS                  | [走迷宫](https://www.acwing.com/problem/content/846/)       |        | [题解](/week3/WalkMaze.java)                                 |
+|                      |                                                             |        | [题解](/week3/.java)                                         |
+| 树与图的深度优先遍历 | [树的重心](https://www.acwing.com/problem/content/848/)     |        | [题解](/week3/TreePoint.java)                                |
+| 树与图的广度优先遍历 | [图中点的层次](https://www.acwing.com/problem/content/849/) |        | [题解](/week3/PicLevel.java)                                 |
+| 拓扑排序             |                                                             |        | [题解](/week3/.java)                                         |
+| Dijkstra             |                                                             |        | [题解](/week3/.java)                                         |
+|                      |                                                             |        | [题解](/week3/.java)                                         |
+| bellman-ford         |                                                             |        | [题解](/week3/.java)                                         |
+| spfa                 |                                                             |        | [题解](/week3/.java)                                         |
+|                      |                                                             |        | [题解](/week3/.java)                                         |
+| Floyd                |                                                             |        | [题解](/week3/.java)                                         |
+| Prim                 |                                                             |        | [题解](/week3/.java)                                         |
+| Kruskal              |                                                             |        | [题解](/week3/.java)                                         |
+| 染色法判定二分图     |                                                             |        | [题解](/week3/.java)                                         |
+| 匈牙利算法           |                                                             |        | [题解](/week3/.java)                                         |
 
