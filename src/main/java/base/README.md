@@ -71,25 +71,32 @@
 
 ## week4
 
-| 标题 | 题目 | 知识点 | 地址 |
-| ---- | ---- | ------ | ---- |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
-|      |      |        |      |
+| 标题             | 题目                                                         | 知识点 | 地址                                      |
+| ---------------- | ------------------------------------------------------------ | ------ | ----------------------------------------- |
+| 质数             | [试除法判定质数](https://www.acwing.com/problem/content/868/) |        | [题解](/week4/DeterminePrimeNumbers.java) |
+|                  | [分解质因数](https://www.acwing.com/problem/content/869/)    |        | [题解](/week4/DecomposePrimeFactors.java) |
+|                  | [筛质数](https://www.acwing.com/problem/content/870/)        |        | [题解](/week4/SievePrimeNumber.java)      |
+| 约数             | [试除法求约数](https://www.acwing.com/problem/content/871/)  |        | [题解](/week4/ApproximateNumber.java)     |
+|                  | [约数个数](https://www.acwing.com/problem/content/872/)      |        | [题解](/week4/ApproximateCount.java)      |
+|                  | [约数之和](https://www.acwing.com/problem/content/873/)      |        | [题解](/week4/ApproximateSum.java)        |
+|                  | [最大公约数](https://www.acwing.com/problem/content/874/)    |        | [题解](/week4/MaxCommonDivisor.java)      |
+| 欧拉函数         |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+| 快速幂           |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+| 扩展欧几里得算法 |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+| 中国剩余定理     |                                                              |        | [题解](/week4/.java)                      |
+| 高斯消元         |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+| 求组合数         |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+| 容斥原理         |                                                              |        | [题解](/week4/.java)                      |
+| 博弈论           |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
+|                  |                                                              |        | [题解](/week4/.java)                      |
 
