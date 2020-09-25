@@ -24,41 +24,40 @@ package base.week3;
  * 输出样例：
  * 2
  */
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.PriorityQueue;
-import java.util.Scanner;
-public class Spfa {
+import java.util.*;
+
+public class SpfaUseQuick {
     static int n;
     static int m;
-    static ArrayList<ArrayList<Pair>> map = new ArrayList<>();
+    static int[] e,w,ne,h,dist;
+    static int idx=0;
     static boolean[] st;
-    static int[] dist;
+
 
     public static void add(int a, int b, int c) {
-        ArrayList<Pair> list = map.get(a);
-        list.add(new Pair(b,c));
+        e[idx] = b;
+        w[idx] = c;
+        ne[idx] = h[a];
+        h[a] = idx;
+        idx++;
     }
 
     public static void spfa(){
-        PriorityQueue<Integer> queue = new PriorityQueue<>();
+        LinkedList<Integer> queue = new LinkedList<>();
         queue.add(1);
         st[1] = true;
         while (!queue.isEmpty()) {
-            Integer poll = queue.poll();
-            st[poll] = false;
-            ArrayList<Pair> list = map.get(poll);
-            for (Pair pair : list) {
-                if (dist[pair.b]>dist[poll]+pair.c){
-                    dist[pair.b] = dist[poll] + pair.c;
-                    if (!st[pair.b]){
-                        queue.add(pair.b);
-                        st[pair.b] = true;
-                    }
+            Integer pop = queue.pop();
+            st[pop] = false;
+            for (int i = h[pop]; i !=-1; i = ne[i]) {
+                int j = e[i];
+                if (dist[j]>dist[pop]+w[i]){
+                    dist[j] = dist[pop]+w[i];
+                    queue.add(j);
                 }
             }
         }
-        if (dist[n]>=5000000){
+        if (dist[n]>=10000*m){
             System.out.println("impossible");
         }else {
             System.out.println(dist[n]);
@@ -69,14 +68,15 @@ public class Spfa {
         Scanner scanner = new Scanner(System.in);
         n = scanner.nextInt();
         m = scanner.nextInt();
-        st = new boolean[n + 1];
+        e= new int[m+1];
+        w = e.clone();
+        ne = e.clone();
+        h = e.clone();
+        Arrays.fill(h,-1);
         dist = new int[n + 1];
-        Arrays.fill(dist,5000000);
+        Arrays.fill(dist,10000*m);
         dist[1] = 0;
-        for (int i = 0; i <= n; i++) {
-            map.add(new ArrayList<>());
-        }
-
+        st = new boolean[n+1];
         for (int i = 0; i < m; i++) {
             int a = scanner.nextInt();
             int b = scanner.nextInt();
@@ -84,14 +84,6 @@ public class Spfa {
             add(a,b,c);
         }
         spfa();
-    }
 
-    static public  class Pair{
-        int b,c;
-
-        public Pair(int b, int c) {
-            this.b = b;
-            this.c = c;
-        }
     }
 }

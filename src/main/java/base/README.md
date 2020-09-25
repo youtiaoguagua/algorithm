@@ -60,10 +60,10 @@
 |                      | [Dijkstra求最短路 II](https://www.acwing.com/problem/content/852/) |        | [题解](/week3/DijkstraShortPath2.java)                       |
 | bellman-ford         | [有边数限制的最短路](https://www.acwing.com/problem/content/855/) |        | [题解](/week3/ShortWayLimit.java)                            |
 | spfa                 | [spfa求最短路](https://www.acwing.com/problem/content/853/)  |        | [题解](/week3/Spfa.java)                                     |
-|                      |                                                              |        | [题解](/week3/.java)                                         |
-| Floyd                |                                                              |        | [题解](/week3/.java)                                         |
-| Prim                 |                                                              |        | [题解](/week3/.java)                                         |
-| Kruskal              |                                                              |        | [题解](/week3/.java)                                         |
-| 染色法判定二分图     |                                                              |        | [题解](/week3/.java)                                         |
-| 匈牙利算法           |                                                              |        | [题解](/week3/.java)                                         |
+|                      | [spfa判断负环](https://www.acwing.com/problem/content/854/)  |        | [题解](/week3/SpfaJudgenegative.java)                        |
+| Floyd                | [Floyd求最短路](https://www.acwing.com/problem/content/856/) |        | [题解](/week3/Floyd.java)                                    |
+| Prim                 | [Prim算法求最小生成树](https://www.acwing.com/problem/content/860/) |        | [题解](/week3/Prim.java)                                     |
+| Kruskal              | [Kruskal算法求最小生成树](https://www.acwing.com/problem/content/861/) |        | [题解](/week3/Kruskal.java)                                  |
+| 染色法判定二分图     | [染色法判定二分图](https://www.acwing.com/problem/content/862/) |        | [题解](/week3/DyeingBinaryPicture.java)                      |
+| 匈牙利算法           | [二分图的最大匹配](https://www.acwing.com/problem/content/863/) |        | [题解](/week3/MaximumMatch.java)                             |
 
