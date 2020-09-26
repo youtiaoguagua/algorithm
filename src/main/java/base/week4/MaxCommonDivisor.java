@@ -2,9 +2,6 @@ package base.week4;
 
 import java.util.Scanner;
 
-import static com.sun.tools.javac.jvm.ByteCodes.ret;
-import static com.sun.tools.javac.jvm.ByteCodes.swap;
-
 /**
  * 最大公约数
  * @author youtiaoguagua

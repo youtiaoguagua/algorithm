@@ -80,16 +80,16 @@
 |                  | [约数个数](https://www.acwing.com/problem/content/872/)      |        | [题解](/week4/ApproximateCount.java)      |
 |                  | [约数之和](https://www.acwing.com/problem/content/873/)      |        | [题解](/week4/ApproximateSum.java)        |
 |                  | [最大公约数](https://www.acwing.com/problem/content/874/)    |        | [题解](/week4/MaxCommonDivisor.java)      |
-| 欧拉函数         |                                                              |        | [题解](/week4/.java)                      |
-|                  |                                                              |        | [题解](/week4/.java)                      |
-| 快速幂           |                                                              |        | [题解](/week4/.java)                      |
-|                  |                                                              |        | [题解](/week4/.java)                      |
+| 欧拉函数         | [欧拉函数](https://www.acwing.com/problem/content/875/)      |        | [题解](/week4/EulerFunction.java)         |
+|                  | [筛法求欧拉函数](https://www.acwing.com/problem/content/876/) |        | [题解](/week4/EulerFunctionSum.java)      |
+| 快速幂           | [快速幂](https://www.acwing.com/problem/content/877/)        |        | [题解](/week4/FastPower.java)             |
+|                  | [快速幂求逆元](https://www.acwing.com/problem/content/878/)  |        | [题解](/week4/FastPowerInversion.java)    |
 | 扩展欧几里得算法 |                                                              |        | [题解](/week4/.java)                      |
 |                  |                                                              |        | [题解](/week4/.java)                      |
 | 中国剩余定理     |                                                              |        | [题解](/week4/.java)                      |
 | 高斯消元         |                                                              |        | [题解](/week4/.java)                      |
 |                  |                                                              |        | [题解](/week4/.java)                      |
-| 求组合数         |                                                              |        | [题解](/week4/.java)                      |
+| 求组合数         | [求组合数 I](https://www.acwing.com/problem/content/887/)    |        | [题解](/week4/NumberCombinations.java)    |
 |                  |                                                              |        | [题解](/week4/.java)                      |
 |                  |                                                              |        | [题解](/week4/.java)                      |
 |                  |                                                              |        | [题解](/week4/.java)                      |
@@ -99,4 +99,28 @@
 |                  |                                                              |        | [题解](/week4/.java)                      |
 |                  |                                                              |        | [题解](/week4/.java)                      |
 |                  |                                                              |        | [题解](/week4/.java)                      |
+
+## week5
+
+| 标题 | 题目                                                        | 知识点 | 地址                                        |
+| ---- | ----------------------------------------------------------- | ------ | ------------------------------------------- |
+|      | [01背包问题](https://www.acwing.com/problem/content/2/)     |        | [题解](/week5/BackPackProblem.java)         |
+|      | [完全背包问题](https://www.acwing.com/problem/content/3/)   |        | [题解](/week5/ComplateBackPackProblem.java) |
+|      | [多重背包问题 I](https://www.acwing.com/problem/content/4/) |        | [题解](/week5/MaybackPack1.java)            |
+|      | [多重背包问题 II](多重背包问题 II)                          |        | [题解](/week5/MaybackPack2.java)            |
+|      | [分组背包问题](https://www.acwing.com/problem/content/9/)   |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
+|      |                                                             |        | [题解](/week5/.java)                        |
 
