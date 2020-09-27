@@ -108,7 +108,7 @@
 |      | [完全背包问题](https://www.acwing.com/problem/content/3/)   |        | [题解](/week5/ComplateBackPackProblem.java) |
 |      | [多重背包问题 I](https://www.acwing.com/problem/content/4/) |        | [题解](/week5/MaybackPack1.java)            |
 |      | [多重背包问题 II](多重背包问题 II)                          |        | [题解](/week5/MaybackPack2.java)            |
-|      | [分组背包问题](https://www.acwing.com/problem/content/9/)   |        | [题解](/week5/.java)                        |
+|      | [分组背包问题](https://www.acwing.com/problem/content/9/)   |        | [题解](/week5/GroupBackPack.java)           |
 |      |                                                             |        | [题解](/week5/.java)                        |
 |      |                                                             |        | [题解](/week5/.java)                        |
 |      |                                                             |        | [题解](/week5/.java)                        |

@@ -53,7 +53,7 @@ public class MaybackPack1 {
         for (int i = 1; i <= n; i++) {
             for (int j = 0; j <= v; j++) {
                 for (int k = 0; k*v1[i] <=j&&k<=s[i] ; k++) {
-                    dp[i][j] = Math.max(dp[i][j],dp[i-1][j-k*v1[i]]+s[i]*k);
+                    dp[i][j] = Math.max(dp[i][j],dp[i-1][j-k*v1[i]]+w1[i]*k);
                 }
             }
         }
