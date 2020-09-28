@@ -102,25 +102,25 @@
 
 ## week5
 
-| 标题 | 题目                                                        | 知识点 | 地址                                        |
-| ---- | ----------------------------------------------------------- | ------ | ------------------------------------------- |
-|      | [01背包问题](https://www.acwing.com/problem/content/2/)     |        | [题解](/week5/BackPackProblem.java)         |
-|      | [完全背包问题](https://www.acwing.com/problem/content/3/)   |        | [题解](/week5/ComplateBackPackProblem.java) |
-|      | [多重背包问题 I](https://www.acwing.com/problem/content/4/) |        | [题解](/week5/MaybackPack1.java)            |
-|      | [多重背包问题 II](多重背包问题 II)                          |        | [题解](/week5/MaybackPack2.java)            |
-|      | [分组背包问题](https://www.acwing.com/problem/content/9/)   |        | [题解](/week5/GroupBackPack.java)           |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
-|      |                                                             |        | [题解](/week5/.java)                        |
+| 标题       | 题目                                                         | 知识点 | 地址                                        |
+| ---------- | ------------------------------------------------------------ | ------ | ------------------------------------------- |
+| 背包问题   | [01背包问题](https://www.acwing.com/problem/content/2/)      |        | [题解](/week5/BackPackProblem.java)         |
+|            | [完全背包问题](https://www.acwing.com/problem/content/3/)    |        | [题解](/week5/ComplateBackPackProblem.java) |
+|            | [多重背包问题 I](https://www.acwing.com/problem/content/4/)  |        | [题解](/week5/MaybackPack1.java)            |
+|            | [多重背包问题 II](多重背包问题 II)                           |        | [题解](/week5/MaybackPack2.java)            |
+|            | [分组背包问题](https://www.acwing.com/problem/content/9/)    |        | [题解](/week5/GroupBackPack.java)           |
+| 线性DP     | [数字三角形](https://www.acwing.com/problem/content/900/)    |        | [题解](/week5/.java)                        |
+|            | [最长上升子序列](https://www.acwing.com/problem/content/897/) |        | [题解](/week5/LongestSubsequence.java)      |
+|            | [最长上升子序列 II](https://www.acwing.com/problem/content/898/) |        | [题解](/week5/LongestSubsequence2.java)     |
+|            | [最长公共子序列](https://www.acwing.com/problem/content/899/) |        | [题解](/week5/CommonLongestSub.java)        |
+|            |                                                              |        | [题解](/week5/.java)                        |
+|            |                                                              |        | [题解](/week5/.java)                        |
+| 区间DP     |                                                              |        | [题解](/week5/.java)                        |
+| 计数类DP   |                                                              |        | [题解](/week5/.java)                        |
+| 数位统计DP |                                                              |        | [题解](/week5/.java)                        |
+| 状态压缩DP |                                                              |        | [题解](/week5/.java)                        |
+|            |                                                              |        | [题解](/week5/.java)                        |
+| 树形DP     |                                                              |        | [题解](/week5/.java)                        |
+| 记忆化搜索 |                                                              |        | [题解](/week5/.java)                        |
+|            |                                                              |        | [题解](/week5/.java)                        |
 
