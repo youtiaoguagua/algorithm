@@ -113,9 +113,9 @@
 |            | [最长上升子序列](https://www.acwing.com/problem/content/897/) |        | [题解](/week5/LongestSubsequence.java)      |
 |            | [最长上升子序列 II](https://www.acwing.com/problem/content/898/) |        | [题解](/week5/LongestSubsequence2.java)     |
 |            | [最长公共子序列](https://www.acwing.com/problem/content/899/) |        | [题解](/week5/CommonLongestSub.java)        |
-|            |                                                              |        | [题解](/week5/.java)                        |
-|            |                                                              |        | [题解](/week5/.java)                        |
-| 区间DP     |                                                              |        | [题解](/week5/.java)                        |
+|            | [最短编辑距离](https://www.acwing.com/problem/content/904/)  |        | [题解](/week5/ShortestEditDistance.java)    |
+|            | [编辑距离](https://www.acwing.com/problem/content/901/)      |        | [题解](/week5/EditDistance.java)            |
+| 区间DP     | [石子合并](https://www.acwing.com/problem/content/284/)      |        | [题解](/week5/StoneMerger.java)             |
 | 计数类DP   |                                                              |        | [题解](/week5/.java)                        |
 | 数位统计DP |                                                              |        | [题解](/week5/.java)                        |
 | 状态压缩DP |                                                              |        | [题解](/week5/.java)                        |
