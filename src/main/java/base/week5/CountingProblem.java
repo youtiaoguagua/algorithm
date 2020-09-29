@@ -1,5 +1,8 @@
 package base.week5;
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
 /**
  * 计数问题
  * @author youtiaoguagua
@@ -43,6 +46,65 @@ package base.week5;
  */
 public class CountingProblem {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int a,b;
+        while ((a= scanner.nextInt())!=0&&(b= scanner.nextInt())!=0){
+            if (a>b){
+                int tmp = a;
+                a = b;
+                b =tmp;
+            }
+            for (int i = 0; i < 10; i++) {
+                int t = count(b,i)-count(a-1,i);
+                System.out.printf("%d ",t);
+            }
+            System.out.println();
+        }
+    }
 
+    private static int count(int val, int tar) {
+        if (val==0){
+            return 0;
+        }
+        ArrayList<Integer> list = new ArrayList<>();
+        for (int i = val; i >0 ; i/=10) {
+         list.add(i%10);
+        }
+
+        int res = 0;
+        int start = list.size()-1;
+        if (tar==0){
+            start-=1;
+        }
+        for (int i = start; i >=0; i--) {
+            if (i<list.size()-1){
+                res+=getBefore(list,i+1,list.size()-1)*getLast(i);
+                if (tar==0){
+                    res -= getLast(i);
+                }
+            }
+            if (list.get(i)==tar){
+                res += getBefore(list, 0, i - 1)+1;
+            }else if (list.get(i)>tar){
+                res+=getLast(i);
+            }
+        }
+        return res;
+    }
+
+    private static int getBefore(ArrayList<Integer> list, int left, int right) {
+        int res= 0;
+        for (int i = right; i >=left; i--) {
+            res = res*10+list.get(i);
+        }
+        return res;
+    }
+
+    private static int getLast(int i) {
+        int res = 1;
+        for (int j = 0; j < i; j++) {
+            res = res*10;
+        }
+        return res;
     }
 }
