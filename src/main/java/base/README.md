@@ -116,11 +116,11 @@
 |            | [最短编辑距离](https://www.acwing.com/problem/content/904/)  |        | [题解](/week5/ShortestEditDistance.java)    |
 |            | [编辑距离](https://www.acwing.com/problem/content/901/)      |        | [题解](/week5/EditDistance.java)            |
 | 区间DP     | [石子合并](https://www.acwing.com/problem/content/284/)      |        | [题解](/week5/StoneMerger.java)             |
-| 计数类DP   |                                                              |        | [题解](/week5/.java)                        |
-| 数位统计DP |                                                              |        | [题解](/week5/.java)                        |
+| 计数类DP   | [整数划分](https://www.acwing.com/problem/content/902/)      |        | [题解](/week5/.java)                        |
+| 数位统计DP | [计数问题](https://www.acwing.com/problem/content/340/)      |        | [题解](/week5/.java)                        |
 | 状态压缩DP |                                                              |        | [题解](/week5/.java)                        |
 |            |                                                              |        | [题解](/week5/.java)                        |
-| 树形DP     |                                                              |        | [题解](/week5/.java)                        |
-| 记忆化搜索 |                                                              |        | [题解](/week5/.java)                        |
+| 树形DP     | [没有上司的舞会](https://www.acwing.com/problem/content/287/) |        | [题解](/week5/PromWithoutBoss.java)         |
+| 记忆化搜索 | [滑雪](https://www.acwing.com/problem/content/903/)          |        | [题解](/week5/Ski.java)                     |
 |            |                                                              |        | [题解](/week5/.java)                        |
 
