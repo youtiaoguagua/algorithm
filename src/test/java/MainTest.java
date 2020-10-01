@@ -11,14 +11,7 @@ import java.util.stream.IntStream;
 public class MainTest {
     @Test
     public void test12() {
-        int res = 0;
-        for (int i = 1; i <=809781248 ; i++) {
-            if (809781248%i==0){
-                System.out.println(i);
-                res++;
-            }
-        }
-        System.out.println(res);
+        ArrayList<Integer> list = new ArrayList<>();
     }
 
     @Test

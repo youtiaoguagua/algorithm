@@ -126,21 +126,14 @@
 
 ## week6
 
-| 标题 | 题目 | 知识点 | 地址                 |
-| ---- | ---- | ------ | -------------------- |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
-|      |      |        | [题解](/week6/.java) |
+| 标题         | 题目                                                         | 知识点 | 地址                                     |
+| ------------ | ------------------------------------------------------------ | ------ | ---------------------------------------- |
+| 区间问题     | [区间选点](https://www.acwing.com/problem/content/description/907/) |        | [题解](/week6/IntervalSelection.java)    |
+|              | [最大不相交区间数量](https://www.acwing.com/problem/content/910/) |        | [题解](/week6/MaxDisjointIntervals.java) |
+|              | [区间分组](https://www.acwing.com/problem/content/908/)      |        | [题解](/week6/IntervalGrouping.java)     |
+|              | [区间覆盖](https://www.acwing.com/problem/content/909/)      |        | [题解](/week6/IntervalCoverage.java)     |
+| Huffman树    | [合并果子](https://www.acwing.com/problem/content/150/)      |        | [题解](/week6/MergeFruit.java)           |
+| 排序不等式   | [排队打水](https://www.acwing.com/problem/content/description/915/) |        | [题解](/week6/LineToFetchWater.java)     |
+| 绝对值不等式 | [货仓选址](https://www.acwing.com/problem/content/106/)      |        | [题解](/week6/WarehouseLocation.java)    |
+| 推公式       | [耍杂技的牛](https://www.acwing.com/problem/content/127/)    |        | [题解](/week6/AcrobaticCow.java)         |
 
