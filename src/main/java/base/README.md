@@ -37,7 +37,7 @@
 |          | [最大异或对](https://www.acwing.com/problem/content/145/)    |        | [题解](/week2/MaxAndOr.java)         |
 | 并查集   | [合并集合](https://www.acwing.com/problem/content/838/)      |        | [题解](/week2/MergeConllection.java) |
 |          | [连通块中点的数量](https://www.acwing.com/problem/content/839/) |        | [题解](/week2/PointInBlock.java)     |
-|          |                                                              |        | [题解](/week2/.java)                 |
+|          | [食物链](https://www.acwing.com/problem/content/242/)        |        | [题解](/week2/FoodChain.java)        |
 | 堆       | [堆排序](https://www.acwing.com/problem/content/840/)        |        | [题解](/week2/HeapSort.java)         |
 |          | [模拟堆](https://www.acwing.com/problem/content/841/)        |        | [题解](/week2/SimulationHeap.java)   |
 | 哈希表   | [模拟散列表](https://www.acwing.com/problem/content/842/)    |        | [题解](/week2/MockHashTable.java)    |
