@@ -52,7 +52,7 @@
 | DFS                  | [排列数字](https://www.acwing.com/problem/content/844/)      |        | [题解](/week3/StrHash.java)                                  |
 |                      | [n-皇后问题](https://www.acwing.com/problem/content/845/)    |        | [题解](/week3/EightQueens.java)  [题解](/week3/EightQueens2.java) |
 | BFS                  | [走迷宫](https://www.acwing.com/problem/content/846/)        |        | [题解](/week3/WalkMaze.java)                                 |
-|                      |                                                              |        | [题解](/week3/.java)                                         |
+|                      | [八数码](https://www.acwing.com/problem/content/847/)        |        | [题解](/week3/EigitDigit.java)                               |
 | 树与图的深度优先遍历 | [树的重心](https://www.acwing.com/problem/content/848/)      |        | [题解](/week3/TreePoint.java)                                |
 | 树与图的广度优先遍历 | [图中点的层次](https://www.acwing.com/problem/content/849/)  |        | [题解](/week3/PicLevel.java)                                 |
 | 拓扑排序             | [有向图的拓扑序列](https://www.acwing.com/problem/content/850/) |        | [题解](/week3/TopologicalSort.java)                          |
